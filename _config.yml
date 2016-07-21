@@ -7,13 +7,11 @@
 
 # Site settings
 title: Glenn Sandoval
-email: glenn.sandoval@gmail.com
+email: gsandoval.dev@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Sometimes educational, sometimes just rants.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://yourdomain.com" # the base hostname & protocol for your site
-twitter_username: jekyllrb
-github_username:  jekyll
+url: "http://glennsandoval.github.io" # the base hostname & protocol for your site
 
 # Build settings
 markdown: kramdown
