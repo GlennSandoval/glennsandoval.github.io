@@ -4,19 +4,26 @@ title: About
 permalink: /about/
 ---
 
-##### About Glenn
+#### About Glenn
 
 I feel the best way to describe who I am is to show you.
 
-Books I have read:</br>
+Books I have read:
+
 [Goodreads](https://www.goodreads.com/review/list/57580121?shelf=read)
 
-Articles I find interesting:</br>
+Articles I find interesting:
+
 [Pocket reading list](http://sharedli.st/glennsandoval)
 
-Games I own and how much I play:</br>
+
+Games I own and how much I play:
+
 [Steam](https://steamcommunity.com/id/taocoyote)
 
-Music:</br>
-[last.fm](http://www.last.fm/user/TaoCoyote)</br>
+
+Music:
+
+[last.fm](http://www.last.fm/user/TaoCoyote)
+
 [Pandora](http://www.pandora.com/profile/glenn.sandoval)
