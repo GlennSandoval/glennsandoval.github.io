@@ -11,17 +11,14 @@ Proficient in: C#, JavaScript
 Intermediate: C, C++, Objective-C
 
 ### Software & Technologies
-C#
-JavaScript
-Sencha Touch
-JQuery
-.Net & WPF
-iOS
-Windows Store Apps
-ASP.Net
-Mercurial / Git / SVN
-Visual Studio
-Experience
+
+| ---------------------- | ---------------------- | ---------------------- |
+|C#                      | JavaScript             |Sencha Touch          |
+|JQuery                  | .Net & WPF             |iOS                   |
+|Windows Store Apps      | ASP.Net                |Mercurial / Git / SVN |
+|Visual Studio           | WebStorm               |                      |
+{:.widetable}
+
 
 ### Senior Software Developer
 August 2014 - Present
@@ -29,18 +26,18 @@ August 2014 - Present
 **Greentree International** Auckland, NZ
 https://www.greentree.com/nz
 
-Greentree4 is an ERP software platform designed to be highly customisable by users and hosts. Forms
+Greentree4 is an ERP software platform designed to be highly customizable by users and hosts. Forms
 can be created from scratch, styled and given custom user permissions without writing code.  
-Maintain and extend Javascript client for desktop and mobile. Clients targeted include IE, Chrome, FireFox, Mobile Safari and Mobile Chrome
+Maintain and extend JavaScript client for desktop and mobile. Clients targeted include IE, Chrome, Firefox, Mobile Safari and Mobile Chrome
 Experienced using Chrome, IE Safari and Firefox debugger. Used remote debuggers to debug browsers on tablet from the desktop.
 
-* Go to person for setting up Webstorm and Git
+* Go to person for setting up WebStorm and Git
 * Fixed all critical issues for initial release.
 * Wrote web client code using ExtJS, Sencha Touch, CSS and SASS using Compass
 * Wrote project code using NodeJS, GruntJS, NPM, Ruby, and Bash.
 * Set up unit test framework using Karma, Mocha and Siesta
 * Automated build and testing with TeamCity
-* Sole Javascript developer for first year
+* Sole JavaScript developer for first year
 * Agile environment with 3 week scrums
 
 ### Software Developer
