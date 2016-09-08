@@ -13,9 +13,9 @@ Intermediate: C, C++, Objective-C
 ### Software & Technologies
 
 | ---------------------- | ---------------------- | ---------------------- |
-|C#                      | JavaScript             |Sencha Touch            |
-|JQuery                  | .Net & WPF             |iOS                     |
-|Windows Store Apps      | ASP.Net                |Mercurial / Git / SVN   |
+|C#                      | JavaScript             | Sencha Touch           |
+|JQuery                  | .Net & WPF             | iOS                    |
+|Windows Store Apps      | ASP.Net                | Mercurial / Git        |
 |Visual Studio           | WebStorm               |                        |
 {:.widetable}  
 
@@ -29,7 +29,7 @@ Auckland, NZ
 August 2014 - Present  
 
 Greentree4 is an ERP software platform designed to be highly customizable by users and hosts. Forms
-can be created from scratch, styled and given custom user permissions without writing code.  
+can be created from scratch, styled and given custom user permissions without writing code.
 Maintain and extend JavaScript client for desktop and mobile. Clients targeted include IE, Chrome, Firefox, Mobile Safari and Mobile Chrome
 Experienced using Chrome, IE Safari and Firefox debugger. Used remote debuggers to debug browsers on tablet from the desktop.
 
@@ -43,18 +43,18 @@ Experienced using Chrome, IE Safari and Firefox debugger. Used remote debuggers 
 * Agile environment with 3 week scrums
 
 ### Software Developer
-**Diligent Board Member Services**  
+**Diligent Board Member Services** <http://diligent.com/>  
 Christchurch and Auckland, NZ  
 January 2013 – August 2014  
 
 * Part of iPad team that created BoardBooks iPad client.
 * Worked on Objective-C code that synchronized data between server and Core Data.
-* Part of Window 8 team that created BoardBooks WinRT client.
+* Part of Windows 8 team that created BoardBooks WinRT client.
 * Primarily responsible for creating the PDF and annotation rendering code in C# and XAML using PDF.Net.
 * All work done as part of Scrum team.
 
 ### Software Developer
-**Telogis**  
+**Telogis** <https://www.telogis.com/solutions/geobase>  
 Christchurch, NZ  
 Oct 2008 – January 2013  
 
@@ -69,12 +69,13 @@ Maintain and add Interop code to interface C# and C++ code.
 Maintain C++ code for GeoBase GIS SDK. Added new code and refactored existing code to support new custom GIS data types.
 
 ### Software Product Assurance Engineer
-**I.G.T.**  
+**I.G.T.** <https://www.igt.com/>  
 Corvallis, Oregon, USA  
 April 2008 – September 2008  
 
 Black-box test and verify processes for the electrical and mechanical systems in IGT’s Gaming products. Assisted in the design and maintenance of software and hardware test tools.
-Pre-degree work experience:
+
+---
 
 ### Field Technician III
 **Cricket Communications**  
@@ -99,11 +100,10 @@ Managed 5 person teams of technicians to set up microwave satellite shots.
 
 ### Education
 
-**Oregon State University**  
+**Bachelor of Science, Computer Science**  
+Oregon State University  
 Corvallis, Oregon, USA  
 2004 – 2008
-
-Bachelor of Science, Computer Science
 
 
 ### Additional Info:
