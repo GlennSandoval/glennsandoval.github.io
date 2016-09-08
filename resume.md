@@ -5,7 +5,6 @@ permalink: /resume/
 ---
 
 Software developer with 8+ years of experience with C# and JavaScript. Web experience includes creating server in ASP.NET C# and web clients in C#, Silverlight and JavaScript. Experienced in writing JavaScript for iOS, Android and desktop browsers, including IE6. Experienced with C and C++.
-Technical skills
 
 ### Languages
 Proficient in: C#, JavaScript  
@@ -27,13 +26,14 @@ Experience
 ### Senior Software Developer
 August 2014 - Present
 
-Greentree International – Auckland, NZ
+**Greentree International** Auckland, NZ
 https://www.greentree.com/nz
 
 Greentree4 is an ERP software platform designed to be highly customisable by users and hosts. Forms
 can be created from scratch, styled and given custom user permissions without writing code.  
 Maintain and extend Javascript client for desktop and mobile. Clients targeted include IE, Chrome, FireFox, Mobile Safari and Mobile Chrome
 Experienced using Chrome, IE Safari and Firefox debugger. Used remote debuggers to debug browsers on tablet from the desktop.
+
 * Go to person for setting up Webstorm and Git
 * Fixed all critical issues for initial release.
 * Wrote web client code using ExtJS, Sencha Touch, CSS and SASS using Compass
@@ -47,6 +47,7 @@ Experienced using Chrome, IE Safari and Firefox debugger. Used remote debuggers 
 January 2013 – August 2014
 
 Diligent Board Member Services – Christchurch and Auckland, NZ
+
 * Part of iPad team that created BoardBooks iPad client.
 * Worked on Objective-C code that synchronized data between server and Core Data.
 * Part of Window 8 team that created BoardBooks WinRT client.
@@ -54,9 +55,9 @@ Diligent Board Member Services – Christchurch and Auckland, NZ
 * All work done as part of Scrum team.
 
 ### Software Developer
+**Telogis** Christchurch, NZ  
 Oct 2008 – January 2013
 
-Telogis – Christchurch, NZ
 Created mobile routing application for iOS and Android using JavaScript, Sencha Touch and Ext JS.
 Responsible for the JavaScript GIS client. This includes bug fixes, testing and adding new features.
 Improved the JS client API to work better on iOS and Android browsers. Added touch support and improved performance on mobile devices.
@@ -68,41 +69,43 @@ Maintain and add Interop code to interface C# and C++ code.
 Maintain C++ code for GeoBase GIS SDK. Added new code and refactored existing code to support new custom GIS data types.
 
 ### Software Product Assurance Engineer
+**I.G.T.** Corvallis, Oregon, USA  
 April 2008 – September 2008
 
-I.G.T. –Corvallis, Oregon, USA
 Black-box test and verify processes for the electrical and mechanical systems in IGT’s Gaming products. Assisted in the design and maintenance of software and hardware test tools.
 Pre-degree work experience:
 
 ### Field Technician III
+**Cricket Communications** Reno, Nevada, USA  
 August 2001 – January 2003
 
-Cricket Communications  - Reno, Nevada, USA
 Repaired CDMA microwave cellular radio equipment at geographically remote sites. On call 24/7 to repair the radio equipment as immediately.
 
 ### RF Technician
+**Agilent** Portland, Oregon, USA  
 October 2000 – March 2001
 
-Agilent – Portland, Oregon, USA
 Tested cellular coverage of all major carriers in large cities. Configured radio test rig consisting of RF scanners, antenna array, and specialized RF hardware and software.
 
 ### Satellite & Wideband Communications Technician
+**United States Air Force**  
 July 1996 – July 2000
 
-United States Air Force
 Satellite radio operator and technician.
 Managed 5 person teams of technicians to set up microwave satellite shots.
 
 ### Education
 
-Oregon State University
+**Oregon State University**  
+Corvallis, Oregon, USA  
 2004 – 2008
 
-Corvallis, Oregon, USA
 Bachelor of Science, Computer Science
 
 
 ### Additional Info:
-LinkedIn profile: http://nz.linkedin.com/pub/glenn-sandoval/8/943/557  
-GitHub: https://github.com/GlennSandoval  
+LinkedIn profile:
+http://nz.linkedin.com/pub/glenn-sandoval/8/943/557/  
+GitHub:
+https://github.com/GlennSandoval/  
 New Zealand citizen
