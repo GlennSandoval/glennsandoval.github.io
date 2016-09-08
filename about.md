@@ -4,12 +4,19 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+##### About Glenn
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jglovier" %} /
-[jekyll-new](https://github.com/jglovier/jekyll-new)
+I feel the best way to describe who I am is to show you.
 
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+Books I have read:</br>
+[Goodreads](https://www.goodreads.com/review/list/57580121?shelf=read)
+
+Articles I find interesting:</br>
+[Pocket reading list](http://sharedli.st/glennsandoval)
+
+Games I own and how much I play:</br>
+[Steam](https://steamcommunity.com/id/taocoyote)
+
+Music:</br>
+[last.fm](http://www.last.fm/user/TaoCoyote)</br>
+[Pandora](http://www.pandora.com/profile/glenn.sandoval)
