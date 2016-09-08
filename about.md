@@ -4,7 +4,7 @@ title: About Glenn
 permalink: /about/
 ---
 
-I feel the best way to describe who I am is to show you.
+I feel the best way to describe who I am is to show you something about myself.
 
 Books I have read:  
 [Goodreads](https://www.goodreads.com/review/list/57580121?shelf=read){:target="_blank"}
